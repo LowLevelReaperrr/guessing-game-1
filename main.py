@@ -1,7 +1,6 @@
 import random
 
 secret_num = random.randint(1, 9)
-guesses = 3
 
 run = "Y"
 
